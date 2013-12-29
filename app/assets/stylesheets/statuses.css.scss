@@ -12,12 +12,12 @@ margin: 4px 0;
 	
 }
 
-.status.hover {
-	background-color: red;
+.status:hover {
+	background-color: lightblue;
 }
 
 .status .admin {
-	display: inline;
+	display: none;
 }
 
 .status.hover .admin {
