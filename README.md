@@ -1,0 +1,1 @@
+myBook is a facebook clone which basically performs simple facebook features like chatting, posting pictures, commenting,following and so on. This is using using Rails4 in both backend and frontend.Note:The project has taken a hault due to time constraint. 
